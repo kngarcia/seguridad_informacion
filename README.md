@@ -1,5 +1,5 @@
 Integrantes: 
-- Andres Castro Gonzales
+- Andres Castro Gonzalez
 - Julian Rincon
 - Kevin Nicolai Garcia Rodriguez
   
