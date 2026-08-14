@@ -2,7 +2,7 @@
 
 **Integrantes:**
 - Andres Castro Gonzalez
-- Julian Rincon
+- Julian Esteban Rincon Rodriguez
 - Kevin Nicolai Garcia Rodriguez
 
 ---
